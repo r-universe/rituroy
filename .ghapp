@@ -1,0 +1,10 @@
+{
+  "id": 45766660,
+  "created_at": "2024-01-04T20:36:55.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["snacky"]
+}
