@@ -5,6 +5,3 @@
 [submodule "heatmap4"]
 	path = heatmap4
 	url = https://github.com/rituroy/heatmap4
-[submodule "snacky"]
-	path = snacky
-	url = https://github.com/rituroy/snacky
